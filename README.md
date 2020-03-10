@@ -47,17 +47,15 @@ Add `:dev` to the command to build the project in dev mode.
 yarn test
 ```
 
-Roadmap:
+## Roadmap
 
-- Ecran Chatroom
-- Api
-- Sélecteur de rooms
-- Liste utilisateurs
-- Discussion temps réel
-- Inscription
-- Login
-- Rooms privées
-- Envoi de docs
-- DRAG-AND-DROP
-- Création de GIF
-
+- [ ] Basic chatroom screen
+- [ ] Communication between users (Api)
+- [ ] Chatrooms selector
+- [ ] User list in chatroom
+- [ ] Realtime chatroom updates (Websocket)
+- [ ] Signin & login workflow
+- [ ] Private rooms
+- [ ] Docs upload
+- [ ] Dragndrop for docs upload
+- [ ] Gif sender
