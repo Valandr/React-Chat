@@ -46,3 +46,18 @@ Add `:dev` to the command to build the project in dev mode.
 ```bash
 yarn test
 ```
+
+Roadmap:
+
+- Ecran Chatroom
+- Api
+- Sélecteur de rooms
+- Liste utilisateurs
+- Discussion temps réel
+- Inscription
+- Login
+- Rooms privées
+- Envoi de docs
+- DRAG-AND-DROP
+- Création de GIF
+
