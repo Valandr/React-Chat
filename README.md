@@ -49,6 +49,8 @@ yarn test
 
 ## Roadmap
 
+This is an on-going work. You can find below my todo list:
+
 - [ ] Basic chatroom screen
 - [ ] Communication between users (Api)
 - [ ] Chatrooms selector
@@ -59,6 +61,15 @@ yarn test
 - [ ] Docs upload
 - [ ] Dragndrop for docs upload
 - [ ] Gif sender
+
+## Contribution
+
+As this is a portfolio project I tried to code everything by myself. Of course, all other contributions are welcomed such as:
+
+- reviews
+- advices
+- issues / bugs
+- feature requests
 
 ## License
 
